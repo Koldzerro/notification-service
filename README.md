@@ -14,3 +14,5 @@
 - Spring Kafka
 - PostgreSQL
 - Spring Data JPA
+
+ссылка на user-service: https://github.com/Koldzerro/user-service_v2
